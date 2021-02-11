@@ -3,15 +3,19 @@ layout: page
 title: About Me
 ---
 
-I have worked on Internet technology for two decades now. Helping to build one of the first SSL-VPN's, scale the infrastructure of a preeminent enterprise cloud storage company, and building infrastructure tools at the world's leading professional social media company are just a few of the things I've done over my career.
+I have worked on Internet technology for two decades now. These are some of the highlights of my career:
 
-Now I'm looking for my next play. Maybe it will be at your organization!
+* Helped to build one of the first SSL-VPN's at SafeWeb
+* Scaled the infrastructure of Box.com
+* Built infrastructure tools at LinkedIn
 
-## What Have You Date Lately?
+Now I'm looking for my next play. Could it be at your organization?
+
+## What Have You Done Recently?
 
 For the last 5 years I have been running my own company- [Clueboard](clueboard.md). I learned a lot, both about business and myself, and you can read more about that on my [Clueboard](clueboard.md) page.
 
-More relevant to my talents as a programmer, for the last 5 years I've been one of two Principals for [QMK Firmware](https://qmk.fm/). (We use the title of Director within QMK.) During my time as Director QMK Firmware become the most popular keyboard firmware, supporting more than 1500 keyboard models. Decisions I made, projects I led, and software I wrote were critical to that success. Here are a few of my accomplishments over the last 5 years:
+More relevant to my talents as a programmer, for the last 5 years I've been one of two Principals for [QMK Firmware](https://qmk.fm/). (We use the title of Director.) During my time as Director QMK Firmware has grown into the most popular keyboard firmware, supporting more than 1500 keyboard models. Decisions I made, projects I led, and software I wrote were critical to that success. Here are a few of my accomplishments over the last 5 years:
 
 * Participated daily in managing and growing a community that is now thousands strong
 * Implemented a Code of Conduct that has helped our community remain wholesome and helpful
@@ -22,13 +26,13 @@ More relevant to my talents as a programmer, for the last 5 years I've been one 
 
 I did all of this while trying to run my own company, sometimes spending only 5 hours a week on QMK. However, I felt that providing a healthy firmware community was a strong part of what set my company apart from other mechanical keyboard vendors. 
 
-Running an open source project is a unique challenge. It requires me to hone my soft skills, persuading people of my vision rather than dictating. Sometimes I have to be diplomat- helping two groups with disparate visions get along- while other times I have to make a technical decision about what direction the project will go in leaving someone to be disappointed. Managing expectations, planning for the future, communicating those plans, and updating them based on feedback have been vital tools for deescalating when conflict inevitably arises.
+Running an open source project is a unique challenge. It required me to hone my soft skills, persuading people of my vision rather than dictating. Sometimes I have to be a diplomat- helping two groups with disparate visions get along- while other times I have to make a technical decision about what direction the project will go in leaving someone to be disappointed. Managing expectations, planning for the future, communicating those plans, and updating them based on feedback have been vital tools for deescalating when conflict inevitably arises.
 
-## That's Great, But Have You Done Anything Real?
+## Have You Worked On Any Large Systems?
 
 ### LinkedIn
 
-From 2010 until 2015 I was a Site Reliability Engineer at LinkedIn. I started as an SRE for Search, Network, and Analytics supporting the ESPRESSO and Databus services. As part of my duties as SNA-SRE I was also required to be on-call for services such as member search, jobs you might be interested in, and other SNA-SRE services. Later I would move over to the SRE Infrastructure team, where I helped support the Metrics Pipeline, the [Salt Stack](https://saltproject.io/) infrastructure, and other services that SRE teams depended on. While there I built a notification/escalation service that let teams define oncall schedules and escalation paths that could be activated by automation or the NOC.
+For 5 years I was a Site Reliability Engineer at LinkedIn. I started as an SRE for Search, Network, and Analytics supporting the ESPRESSO and Databus services. As part of my duties as SNA-SRE I was also required to be on-call for services such as member search, jobs you might be interested in, and other SNA-SRE services. Later I would move over to the SRE Infrastructure team, where I helped support the Metrics Pipeline, the [Salt Stack](https://saltproject.io/) infrastructure, and other services that SRE teams depended on. While there I built a notification/escalation service that let teams define oncall schedules and escalation paths that could be activated by automation or the NOC.
 
 ### Box.com
 
