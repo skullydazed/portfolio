@@ -26,7 +26,7 @@ More relevant to my talents as a programmer, for the last 5 years I've been one 
 
 I did all of this while trying to run my own company, sometimes spending only an hour a week on QMK. However, I felt that providing a healthy firmware community was a strong part of what set my company apart from other mechanical keyboard vendors.
 
-Running an open source project is a unique challenge. It required me to hone my soft skills, persuading people of my vision rather than dictating. Sometimes I have to be a diplomat- helping two groups with disparate visions get along- while other times I have to make a technical decision about what direction the project will go in leaving someone to be disappointed. Managing expectations, planning for the future, communicating those plans, and updating them based on feedback have been vital tools for deescalating when conflict inevitably arises.
+Running a successful open source project is a unique challenge. It required me to hone my soft skills, persuading people of my vision rather than dictating. Sometimes I have to be a diplomat- helping two groups with disparate visions get along- while other times I have to make a technical decision about what direction the project will go in leaving someone to be disappointed. Managing expectations, planning for the future, communicating those plans, and updating them based on feedback have been vital tools for deescalating when conflict inevitably arises.
 
 ## Have You Worked On Any Large Systems?
 
