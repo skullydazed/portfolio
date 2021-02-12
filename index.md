@@ -24,7 +24,7 @@ More relevant to my talents as a programmer, for the last 5 years I've been one 
 * Built QMK CLI, the foundation for our data driven efforts
 * Designed and currently executing Data Driven QMK, an ongoing project to move configuration and data out of source code
 
-I did all of this while trying to run my own company, sometimes spending only 5 hours a week on QMK. However, I felt that providing a healthy firmware community was a strong part of what set my company apart from other mechanical keyboard vendors. 
+I did all of this while trying to run my own company, sometimes spending only an hour a week on QMK. However, I felt that providing a healthy firmware community was a strong part of what set my company apart from other mechanical keyboard vendors.
 
 Running an open source project is a unique challenge. It required me to hone my soft skills, persuading people of my vision rather than dictating. Sometimes I have to be a diplomat- helping two groups with disparate visions get along- while other times I have to make a technical decision about what direction the project will go in leaving someone to be disappointed. Managing expectations, planning for the future, communicating those plans, and updating them based on feedback have been vital tools for deescalating when conflict inevitably arises.
 
@@ -32,7 +32,7 @@ Running an open source project is a unique challenge. It required me to hone my 
 
 ### LinkedIn
 
-For 5 years I was a Site Reliability Engineer at LinkedIn. I started as an SRE for Search, Network, and Analytics supporting the ESPRESSO and Databus services. As part of my duties as SNA-SRE I was also required to be on-call for services such as member search, jobs you might be interested in, and other SNA-SRE services. Later I would move over to the SRE Infrastructure team, where I helped support the Metrics Pipeline, the [Salt Stack](https://saltproject.io/) infrastructure, and other services that SRE teams depended on. While there I built a notification/escalation service that let teams define oncall schedules and escalation paths that could be activated by automation or the NOC.
+For 5 years I was a Site Reliability Engineer at LinkedIn. I started as an SRE for Search, Network, and Analytics supporting the ESPRESSO and Databus services. As part of my duties as SNA-SRE I was also required to be on-call for services such as Member Search, People You May Know, Jobs You May Be Interested In, and other SNA-SRE services. Later I would move over to the SRE Infrastructure team, where I helped support the Metrics Pipeline, the [Salt Stack](https://saltproject.io/) infrastructure, and other services that SRE teams depended on. While there I built a notification/escalation service that let teams define oncall schedules and escalation paths that could be activated by automation or the NOC.
 
 ### Box.com
 
