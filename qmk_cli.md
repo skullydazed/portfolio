@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MILC
+title: QMK CLI
 ---
 
-Talk about MILC here.
+Talk about QMK CLI here.

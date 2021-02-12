@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MILC
+title: QMK Firmware
 ---
 
-Talk about MILC here.
+Talk about QMK Firmware here.
