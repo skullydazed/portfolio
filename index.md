@@ -15,7 +15,7 @@ Now I'm looking for my next play. Could it be at your organization?
 
 For the last 5 years I have been running my own company- [Clueboard](clueboard.md). I learned a lot, both about business and myself, and you can read more about that on my [Clueboard](clueboard.md) page.
 
-More relevant to my talents as a programmer, for the last 5 years I've been one of two Principals for [QMK Firmware](https://qmk.fm/). (We use the title of Director.) During my time as Director QMK Firmware has grown into the most popular keyboard firmware, supporting more than 1500 keyboard models. Decisions I made, projects I led, and software I wrote were critical to that success. Here are a few of my accomplishments over the last 5 years:
+More relevant to my talents as a programmer, for the last 5 years I've been one of two Principals for [QMK Firmware](qmk.md). (We use the title of Director.) During my time as Director QMK Firmware has grown into the most popular keyboard firmware, supporting more than 1500 keyboard models. Decisions I made, projects I led, and software I wrote were critical to that success. Here are a few of my accomplishments over the last 5 years:
 
 * Participated daily in managing and growing a community that is now thousands strong
 * Implemented a Code of Conduct that has helped our community remain wholesome and helpful
